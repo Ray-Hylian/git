@@ -1,2 +1,4 @@
 build/
 useless-file.txt
+id-rsa
+id-rsa.pub
